@@ -1,0 +1,11 @@
+Add Credit On Immediate Cancellation Hook for WHMCS by KuJoe (JMD.cc)
+	
+//Requirements:
+None.
+
+//Installation:
+1) Edit the $adminuser line in canclledcredit.php ($minpay and $desc are optional).
+2) Upload cancelledcredit.php into your WHMCS's hooks directory (/includes/hooks/).
+
+//Additional Information:
+None.
