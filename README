@@ -1,3 +1,5 @@
+NOTICE: Hook is 100% untested! I wrote this as a request but my development WHMCS is in use so I have no way to test this right now. Once I free up my development install I'll be able to test this.
+
 Add Credit On Immediate Cancellation Hook for WHMCS by KuJoe (JMD.cc)
 	
 //Requirements:
